@@ -18,6 +18,12 @@ def f_potencia(base, expoente):
     return 1
   else: #BASE RECURSIVA
     return base*f_potencia(base, expoente-1)
+
 base = int(input("Digite o valor da base "))
 expoente = int(input("Digite o valor do expoente "))
+
+if expoente <= 0:
+  print("Não considere exponenciação de números negativos")
+  expoente = int(input("Digite o novo valor POSITIVO do expoente "))
+  
 print(f"A potencia da {base} elevado ao expoente {expoente} é {f_potencia(base, expoente)}")
