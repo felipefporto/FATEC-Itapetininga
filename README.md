@@ -1,2 +1,2 @@
-# FATEC-Itapetininga
-Pasta para o estudo das matérias do curso de ADS da Fatec Itapetininga
+# IoT Curso
+Curso de IoT fornecido pela Fatec-Itapetininga, aulas ministradas aos sábados
