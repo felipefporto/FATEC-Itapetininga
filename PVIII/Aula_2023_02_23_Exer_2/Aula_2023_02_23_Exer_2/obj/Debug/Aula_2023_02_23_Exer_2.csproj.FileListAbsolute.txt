@@ -1,0 +1,6 @@
+c:\users\fatec\documents\visual studio 2015\Projects\Aula_2023_02_23_Exer_2\Aula_2023_02_23_Exer_2\bin\Debug\Aula_2023_02_23_Exer_2.exe.config
+c:\users\fatec\documents\visual studio 2015\Projects\Aula_2023_02_23_Exer_2\Aula_2023_02_23_Exer_2\bin\Debug\Aula_2023_02_23_Exer_2.exe
+c:\users\fatec\documents\visual studio 2015\Projects\Aula_2023_02_23_Exer_2\Aula_2023_02_23_Exer_2\bin\Debug\Aula_2023_02_23_Exer_2.pdb
+c:\users\fatec\documents\visual studio 2015\Projects\Aula_2023_02_23_Exer_2\Aula_2023_02_23_Exer_2\obj\Debug\Aula_2023_02_23_Exer_2.csprojResolveAssemblyReference.cache
+c:\users\fatec\documents\visual studio 2015\Projects\Aula_2023_02_23_Exer_2\Aula_2023_02_23_Exer_2\obj\Debug\Aula_2023_02_23_Exer_2.exe
+c:\users\fatec\documents\visual studio 2015\Projects\Aula_2023_02_23_Exer_2\Aula_2023_02_23_Exer_2\obj\Debug\Aula_2023_02_23_Exer_2.pdb
