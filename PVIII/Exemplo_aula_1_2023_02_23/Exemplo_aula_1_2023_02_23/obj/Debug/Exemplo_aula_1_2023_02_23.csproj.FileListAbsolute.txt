@@ -1,0 +1,6 @@
+c:\users\fatec\documents\visual studio 2015\Projects\Exemplo_aula_1_2023_02_23\Exemplo_aula_1_2023_02_23\bin\Debug\Exemplo_aula_1_2023_02_23.exe.config
+c:\users\fatec\documents\visual studio 2015\Projects\Exemplo_aula_1_2023_02_23\Exemplo_aula_1_2023_02_23\bin\Debug\Exemplo_aula_1_2023_02_23.exe
+c:\users\fatec\documents\visual studio 2015\Projects\Exemplo_aula_1_2023_02_23\Exemplo_aula_1_2023_02_23\bin\Debug\Exemplo_aula_1_2023_02_23.pdb
+c:\users\fatec\documents\visual studio 2015\Projects\Exemplo_aula_1_2023_02_23\Exemplo_aula_1_2023_02_23\obj\Debug\Exemplo_aula_1_2023_02_23.csprojResolveAssemblyReference.cache
+c:\users\fatec\documents\visual studio 2015\Projects\Exemplo_aula_1_2023_02_23\Exemplo_aula_1_2023_02_23\obj\Debug\Exemplo_aula_1_2023_02_23.exe
+c:\users\fatec\documents\visual studio 2015\Projects\Exemplo_aula_1_2023_02_23\Exemplo_aula_1_2023_02_23\obj\Debug\Exemplo_aula_1_2023_02_23.pdb
