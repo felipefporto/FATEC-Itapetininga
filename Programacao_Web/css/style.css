@@ -109,6 +109,14 @@ body {
     margin-right: 20px;
 }
 
+.project-pic {
+    width: 220px;
+    height: auto;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    float: left;
+}
+
 .main h1 {
     color: #fffafa;
     font-size: 32px;
