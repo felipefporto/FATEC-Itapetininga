@@ -95,12 +95,6 @@ body {
     font-size: 15px;
     font-weight: 100;
 }
-.main {
-    padding-bottom: 80px;
-    padding-top: 40px;
-    padding-left: 100px;
-    padding-right: 180px;
-}
 
 .cv-pic {
     float: left;
@@ -115,6 +109,34 @@ body {
     margin-bottom: 20px;
     margin-right: 20px;
     float: left;
+}
+
+.project-pic ul {
+    list-style: none;
+    margin-top: 0;
+    padding: 0;
+    height: 55px;
+    text-align: right;
+}
+
+.project-pic li {
+ display: inline-block;
+ line-height: 55px;
+ font-weight: 100;
+ padding-right: 30px;
+ padding-left: 30px;
+ font-size: 20px;
+}
+
+.profile-pic li.threeline-icon {
+    display: none;
+}
+
+.main {
+    padding-bottom: 80px;
+    padding-top: 40px;
+    padding-left: 100px;
+    padding-right: 180px;
 }
 
 .main h1 {
